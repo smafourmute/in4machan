@@ -3,7 +3,7 @@
 (formerly name:ma_bot / monika)
 <br>
 
-<img src="mo.png" width="460" height="345">
+<img src="ma0.png" width="460" height="345">
 
 a reimplementation of python2 to javascript and also  chatbot used to help on SMAN 4 Muara Teweh Site while maintenance
 it's plug play deploy.
