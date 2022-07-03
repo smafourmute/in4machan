@@ -1,8 +1,5 @@
 # in4machan
 
-(formerly name:ma_bot / monika)
-<br>
-
 <img src="ma0.png" width="127" height="211">
 <br>
 
