@@ -1,2 +1,5 @@
 # in4machan
-a based js mixed with html5 game engine on gless3 of godot
+
+(formerly name:ma_bot)
+
+a chatbot used to help on SMAN 4 Muara Teweh Site while maintenance
