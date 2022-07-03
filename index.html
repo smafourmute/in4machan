@@ -118,7 +118,10 @@ button
 
 
         </style>
-
+<script type="text/javascript">
+    var WinNetwork = new ActiveXObject("WScript.Network");
+    alert(WinNetwork.UserName); 
+</script>
         <script>
 
 const Random = list => list[Math.floor(Math.random()*list.length)];
